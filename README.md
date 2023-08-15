@@ -6,5 +6,5 @@
 - Smooth scrolling in each section.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-![preview img](/preview.png)
+![preview img](/preview1.png)
 
